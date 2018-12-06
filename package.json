@@ -1,0 +1,13 @@
+{
+  "name": "stylelint-config-amphibian",
+  "version": "1.0.1",
+  "description": "@amphibian stylelint shareable config",
+  "main": "index.js",
+  "repository": "https://github.com/amphibian-no/stylelint-config-amphibian",
+  "author": "Thomas Lindstrøm <t@hom.as>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-css-modules": "^1.3.0",
+    "stylelint-order": "^2.0.0"
+  }
+}
