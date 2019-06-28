@@ -202,7 +202,6 @@ module.exports = {
 		'string-no-newline': true,
 		'unit-case': 'lower',
 		'unit-no-unknown': true,
-		'value-keyword-case': 'lower',
 		'value-list-comma-newline-after': 'always-multi-line',
 		'value-list-comma-space-after': 'always-single-line',
 		'value-list-comma-space-before': 'never',
