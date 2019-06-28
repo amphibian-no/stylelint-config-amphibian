@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-amphibian",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "@amphibian stylelint shareable config",
   "main": "index.js",
   "repository": "https://github.com/amphibian-no/stylelint-config-amphibian",
