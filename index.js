@@ -14,6 +14,8 @@ module.exports = {
 			'background-size',
 			'width',
 			'height',
+			'min-width',
+			'min-height',
 			'max-width',
 			'max-height',
 			'cursor',
